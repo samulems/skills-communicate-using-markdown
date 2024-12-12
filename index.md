@@ -5,4 +5,5 @@
 ######  <h5> 5
 #######  <h6> 6
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Added different headers
